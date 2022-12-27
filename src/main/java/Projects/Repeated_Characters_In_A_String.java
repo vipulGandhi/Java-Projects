@@ -1,6 +1,6 @@
 package Projects;
 
-public class Count_Occurrence_Of_A_Character_in_A_String {
+public class Repeated_Characters_In_A_String {
 
 	public static void main(String[] args)
 	{
