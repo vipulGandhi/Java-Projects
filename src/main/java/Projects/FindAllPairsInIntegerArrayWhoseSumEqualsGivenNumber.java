@@ -6,7 +6,7 @@ package Projects;
 import java.util.Arrays;
 import java.util.List;
 
-public class Find_All_Pairs_In_Integer_Array_Whose_Sum_Equals_Given_Number
+public class FindAllPairsInIntegerArrayWhoseSumEqualsGivenNumber
 {
 	public static void main(String[] args)
 	{

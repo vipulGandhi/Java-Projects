@@ -1,6 +1,6 @@
 package Projects;
 
-public class Get_Number_Of_Characters_In_A_String
+public class GetNumberOfCharactersInAString
 {
 
 	public static void main(String[] args)

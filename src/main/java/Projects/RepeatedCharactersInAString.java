@@ -1,6 +1,6 @@
 package Projects;
 
-public class Repeated_Characters_In_A_String {
+public class RepeatedCharactersInAString {
 
 	public static void main(String[] args)
 	{
